@@ -1,0 +1,21 @@
+{
+  "root": true,
+  "extends": ["plugin:prettier/recommended", "@nuxtjs/eslint-config-typescript"],
+  "env": {
+    "node": true,
+    "commonjs": true
+  },
+  "overrides": [
+    {
+      "files": ["*"],
+      "rules": {
+        "no-undef": "off",
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/no-unused-vars": "off",
+        "@typescript-eslint/ban-ts-comment": "off",
+        "semi": [2, "never"],
+        "quotes": [2, "single"]
+      }
+    }
+  ]
+}
