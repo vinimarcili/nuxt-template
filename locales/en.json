@@ -1,0 +1,126 @@
+{
+  "language": "English",
+  "loading": "Loading",
+  "mediaKit": "Media Kit",
+  "formErrors": {
+    "required": "Required field",
+    "email": "Invalid email",
+    "url": "Invalid website address",
+    "selectIten": "Select at least {value} item",
+    "selectItens": "Select at least {value} items",
+    "date": "Invalid date"
+  },
+  "shortNumber": {
+    "k": "K",
+    "m": "M",
+    "mS": "M",
+    "b": "B",
+    "bS": "B",
+    "t": "T",
+    "tS": "T",
+    "q": "Q",
+    "qS": "Q"
+  },
+  "squidCampaign": "Squid Campaign",
+  "menu": {
+    "cover": "Cover",
+    "purpose": "Proposal",
+    "whoDoes": "Who does?",
+    "targetAudience": "Instagram Public",
+    "communication": "Communication",
+    "socialAnalytics": "Social analytics",
+    "whoAnnounced": "Who announced",
+    "lead": "Contact"
+  },
+  "purpose": {
+    "channelPurpose": "Channel proposal:",
+    "subjects": "Topics covered:",
+    "followers": "Followers"
+  },
+  "whoDoes": {
+    "title": "Who does?"
+  },
+  "targetAudience": {
+    "title": "Instagram Audience",
+    "audiencePerAge": "Audience Age",
+    "audiencePerCity": "High impact cities",
+    "audiencePerGender": "Audience gender",
+    "followersGrowth": "Followers growth (last {value} days)",
+    "followers": "Followers",
+    "followersTotal": "Total followers",
+    "averageContent": "Average content (last {value} days)",
+    "to": "to",
+    "followersGrowthLabel": "Crescimento de seguidores",
+    "charts": {
+      "MALE": "Male",
+      "FEMALE": "Female",
+      "posts": "Posts",
+      "videos": "Videos",
+      "stories": "Stories"
+    }
+  },
+  "lead": {
+    "title": "Want to run a campaign with Squid?",
+    "subtitle": "Contact us by form below",
+    "name": "Name",
+    "namePlaceholder": "Your Contact Name",
+    "company": "Company",
+    "companyPlaceholder": "Company Name",
+    "email": "Email Corporate",
+    "emailPlaceholder": "email{'@'}provider.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+55 11 99999-9999",
+    "message": "Campaign Proposal",
+    "messagePlaceholder": "Describe your campaign proposal",
+    "err": "Fill out the form completely.",
+    "submit": "Talk to Squid",
+    "textRightSide": {
+      "paragraphOne": "Fill in the contact details correctly so that Squid's salesperson can analyze your proposal and we will contact you.",
+      "paragraphTwo": "Attention: this form is not a direct contact channel with the influencer, but the intention to carry out a campaign with him through the Squid platform.",
+      "linkKnowMore": "<a href='https://bit.ly/MKitSquid' target='_blank'> Click here </a> to learn more about Squid."
+    },
+    "successMessage": {
+      "title": "Appreciate",
+      "paragraphOne": "Thank you so much for your interest!",
+      "paragraphTwo": "Soon you will have a personalized service from our sales team.",
+      "paragraphThree": "If you prefer, contact us!",
+      "contactEmail": "<a href='mailto:contato{'@'}squidit.com.br'> contato{'@'}squidit.com.br </a>",
+      "contactPhone": "<a href='tel:+55 11 3892.4266'> +55 11 3892.4266 </a>",
+      "knowAboutSquid": "<a target='_blank' href='https://bit.ly/MKitSquid'> Learn more about Squid! </a>"
+    }
+  },
+  "communication": {
+    "title": "Visual Communication and Language",
+    "zealTitle": "Zeal with the subtitles",
+    "perfectTitle": "In search of the perfect image",
+    "commentsTitle": "Attention to comments",
+    "more": "see more",
+    "followerLabel": "Follower",
+    "userAtSign": "{'@'}user"
+  },
+  "socialAnalytics": {
+    "title": "Instagram analytic data",
+    "posts": "Posts",
+    "metrics": "data from last {value} days*",
+    "stories": "Stories",
+    "engagementRate": "Engagement Rate",
+    "reach": "Reach",
+    "impressions": "Impressions",
+    "saves": "Saves",
+    "comments": "Comments",
+    "likes": "Likes",
+    "replies": "Replies",
+    "tapsBack": "Taps back",
+    "updatedAt": "Data updated at",
+    "api": "* Data obtained from the official Facebook / Instagram API"
+  },
+  "whoAnnounced": {
+    "title": "Who has already announced?",
+    "subtitle": "Brands have already relied on the power of influence of <b>{'@'}{username}</b>"
+  },
+  "unavailable": {
+    "title": "Media Kit Unavailable",
+    "message": "Oops! This Media Kit does not exist or is not available. Check with the influencer if the link you entered is correct.",
+    "meetSquid": "Learn more about Squid!"
+  }
+}

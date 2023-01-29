@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "build": "nuxt build",
+    "build:prd": "nuxt build",
+    "build:stg": "nuxt build --dotenv .env.development",
     "start:production": "nuxt dev",
     "start": "nuxt dev --dotenv .env.development",
     "lint": "eslint .",
@@ -17,6 +19,7 @@
     "@babel/eslint-parser": "^7.19.1",
     "@nuxt/eslint-config": "^0.1.1",
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "@nuxtjs/i18n": "^8.0.0-beta.9",
     "@types/eslint": "^8.4.10",
     "@types/node": "^18.11.18",
     "dotenv": "^16.0.3",
