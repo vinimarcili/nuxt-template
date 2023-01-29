@@ -45,10 +45,10 @@
     "audiencePerAge": "Edad de la audiencia",
     "audiencePerCity": "Ciudades de alto impacto",
     "audiencePerGender": "Género de la audiencia",
-    "followersGrowth": "Crecimiento de seguidores (últimos {value}} días)",
+    "followersGrowth": "Crecimiento de seguidores (últimos {value} días)",
     "followers": "Seguidores",
     "followersTotal": "Total de seguidores",
-    "averageContent": "Contenido promedio (últimos {value}} días)",
+    "averageContent": "Contenido promedio (últimos {value} días)",
     "to": "a",
     "followersGrowthLabel": "Crescimento de seguidores",
     "charts": {
@@ -101,7 +101,7 @@
   "socialAnalytics": {
     "title": "Datos analíticos de Instagram",
     "posts": "Publicaciones",
-    "metrics": "datos de los últimos {value}} días *",
+    "metrics": "datos de los últimos {value} días *",
     "stories": "Historias",
     "engagementRate": "Tasa de interacción",
     "reach": "Alcance",
@@ -116,7 +116,7 @@
   },
   "whoAnnounced": {
     "title": "¿Quién ya lo ha anunciado?",
-    "subtitle": "Las marcas ya han confiado en el poder de influencia de <b> {'@'}{username}} </b>"
+    "subtitle": "Las marcas ya han confiado en el poder de influencia de <b> {'@'}{username} </b>"
   },
   "unavailable": {
     "title": "Kit multimedia no disponible",
